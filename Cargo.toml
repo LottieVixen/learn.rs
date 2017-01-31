@@ -1,0 +1,8 @@
+[package]
+
+name = "hello_world"
+version = "0.0.1"
+authors = [
+    "Andrea Pascal <andrea@anodium.net>",
+    "Charlotte Fields <charlottelilyfields48@gmail.com>"
+]
