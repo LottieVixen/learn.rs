@@ -1,0 +1,9 @@
+[package]
+name = "guessing_game"
+version = "0.1.0"
+authors = [
+    "Andrea Pascal <andrea@anodium.net>",
+    "Charlotte Fields <charlottelilyfields48@gmail.com>"
+]
+
+[dependencies]
